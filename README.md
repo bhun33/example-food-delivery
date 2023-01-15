@@ -137,6 +137,7 @@ http localhost:8080/orders     # 모든 주문의 상태가 "배송됨"으로 �
 ```
 
 ##  1. Saga (Pub / Sub)
+![스크린샷_20230116_125551](https://user-images.githubusercontent.com/54651541/212551665-9eb22b9f-cc19-439d-8e44-68a69affccd0.png)
 
 ##  2. CQRS
 
