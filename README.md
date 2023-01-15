@@ -136,9 +136,14 @@ mvn spring-boot:run
 http localhost:8080/orders     # 모든 주문의 상태가 "배송됨"으로 확인
 ```
 
-##  1. Saga (Pub / Sub)
-![스크린샷_20230116_125551](https://user-images.githubusercontent.com/54651541/212551665-9eb22b9f-cc19-439d-8e44-68a69affccd0.png)
 
+![스크린샷_20230116_125551](https://user-images.githubusercontent.com/54651541/212551665-9eb22b9f-cc19-439d-8e44-68a69affccd0.png)
+##  1. Saga (Pub / Sub)
+![5](https://user-images.githubusercontent.com/54651541/212554401-d816bb35-a95c-49bc-9c60-2e8c318f64e0.png)
 ##  2. CQRS
+![1](https://user-images.githubusercontent.com/54651541/212551869-fc1daebf-2668-47a4-a9c1-8c6271774612.png)
+![2](https://user-images.githubusercontent.com/54651541/212551870-1ef37e49-a698-4ea9-a6ac-18a5b76b83a9.png)
+![3](https://user-images.githubusercontent.com/54651541/212551876-bf3d12e2-e842-43d8-800f-473161e8e93a.png)
 
 ##  3. Compensation / Correlation
+![4](https://user-images.githubusercontent.com/54651541/212553992-6ebc7383-a5f2-4b7f-a080-a59b80e69d3a.png)
