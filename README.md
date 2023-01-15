@@ -146,4 +146,4 @@ http localhost:8080/orders     # 모든 주문의 상태가 "배송됨"으로 �
 ![3](https://user-images.githubusercontent.com/54651541/212551876-bf3d12e2-e842-43d8-800f-473161e8e93a.png)
 
 ##  3. Compensation / Correlation
-![4](https://user-images.githubusercontent.com/54651541/212553992-6ebc7383-a5f2-4b7f-a080-a59b80e69d3a.png)
+![8](https://user-images.githubusercontent.com/54651541/212554866-10205b40-d73b-4c00-a60f-3971f09fa98c.png)
